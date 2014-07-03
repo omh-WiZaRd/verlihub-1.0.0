@@ -16,7 +16,7 @@ Earlier list:
 
 !!Extension
 * Port to Mac OS X
-** socklen_t (is not defined htere)
+** socklen_t (is not defined there)
 ** resolve dlfcn searching and undefined dlopen etc.. search for file dlfcn.h (/sw/include/dlfcn.h)
 ** g++: unrecognized option `-rdynamic'
 * Port to Win32
