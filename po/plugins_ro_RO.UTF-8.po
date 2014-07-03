@@ -81,7 +81,7 @@ msgstr "a folosit alt nume de utilizator in chat"
 
 #: ../plugins/iplog/ciplog.cpp:100
 msgid "kicked"
-msgstr "dat afara"
+msgstr "a dat afara"
 
 #: ../plugins/iplog/ciplog.cpp:101
 msgid "redirected"
