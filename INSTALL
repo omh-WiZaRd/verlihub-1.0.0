@@ -5,6 +5,8 @@ Prerequisites:
     zlib
     libpcre
     gettext
+    dialog
+    unzip
 Optional dependencies:
     GeoIP
     Lua 5.1
@@ -13,9 +15,7 @@ Optional dependencies:
 To install Verlihub, run the following commands:
 
 cd verlihub
-mkdir build
-cd build
-cmake ..
-make
-make install (as super user)
+mkdir build && cd build
+cmake .. && make && make install (as super user)
 ldconfig (as super user, this is required only when you get: cannot open shared object file, no such file or directory)
+updatedb
