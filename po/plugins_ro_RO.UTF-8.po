@@ -35,7 +35,7 @@ msgstr "Ne pare rau dar sintaxa folosita de tine nu este valida"
 #: ../plugins/forbid/cforbidden.cpp:78
 #, c-format
 msgid "FORBID: User sent forbidden words in %s: %s"
-msgstr "FORBID: Utilizatorul a folosit cuvinte necuvenite in %s: %s"
+msgstr "FORBID: Utilizatorul a folosit cuvinte neadecvate in %s: %s"
 
 #: ../plugins/forbid/cforbidden.cpp:78
 msgid "PUBLIC chat"
@@ -81,7 +81,7 @@ msgstr "a folosit alt nume de utilizator in chat"
 
 #: ../plugins/iplog/ciplog.cpp:100
 msgid "kicked"
-msgstr "dat afara"
+msgstr "a dat afara"
 
 #: ../plugins/iplog/ciplog.cpp:101
 msgid "redirected"
